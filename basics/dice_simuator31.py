@@ -1,4 +1,4 @@
-from random import randint ## randomint is function which pics a no itself between range
+from random import randint ## randint is function which pics a no itself between range
 win_count=0
 lose_count=0
 dice=["1","2","3","4","5","6"]
