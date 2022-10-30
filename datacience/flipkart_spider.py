@@ -37,3 +37,5 @@ data=scrap.extract_many(
     price=price,
     link=link)
 print(data)    
+
+laptops=getdata()
